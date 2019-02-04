@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Identity.AppService.ViewModel.Usuario.ListarUsuariosViewModel>
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-body">
+        <div class="btn-group">
+            <a asp-controller="Usuario" asp-action="AdicionarUsuario" class="btn btn-info">Adicionar Usuario</a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Cpf</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Cpf</td>
+                    <td>@item.Email</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

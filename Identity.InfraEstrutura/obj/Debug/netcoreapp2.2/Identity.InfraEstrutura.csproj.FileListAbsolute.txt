@@ -1,0 +1,16 @@
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Identity.InfraEstrutura.deps.json
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Identity.InfraEstrutura.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Identity.Dominio.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Identity.Dominio.pdb
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\obj\Debug\netcoreapp2.2\Identity.InfraEstrutura.csprojAssemblyReference.cache
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\obj\Debug\netcoreapp2.2\Identity.InfraEstrutura.csproj.CoreCompileInputs.cache
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\obj\Debug\netcoreapp2.2\Identity.InfraEstrutura.AssemblyInfoInputs.cache
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\obj\Debug\netcoreapp2.2\Identity.InfraEstrutura.AssemblyInfo.cs
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\obj\Debug\netcoreapp2.2\Identity.InfraEstrutura.csproj.CopyComplete
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\bin\Debug\netcoreapp2.2\Identity.InfraEstrutura.pdb
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\obj\Debug\netcoreapp2.2\Identity.InfraEstrutura.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.InfraEstrutura\obj\Debug\netcoreapp2.2\Identity.InfraEstrutura.pdb
