@@ -1,0 +1,41 @@
+﻿@model Identity.AppService.ViewModel.Usuario.AdicionarUsuarioViewModel
+
+@{
+    ViewBag.Title = "Adicionar Usuario";
+}
+
+<h3>@ViewBag.Title</h3>
+
+@if (ViewBag.Mensagem != null)
+{
+    <div class="alert alert-warning">@ViewBag.Mensagem</div>
+}
+
+<div>
+    <div>
+        <form asp-action="AdicionarUsuario" method="post"  class="form-horizontal">
+            <table class="table table-bordered table-striped table-condensed">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Cpf</th>
+                        <th>Email</th>
+                        <th>Senha</th>
+                        <th>Confirmar Senha</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Html.TextBoxFor(x => x.Nome)</td>
+                        <td>@Html.TextBoxFor(x => x.Cpf)</td>
+                        <td>@Html.TextBoxFor(x => x.Email)</td>
+                        <td>@Html.PasswordFor(x => x.Password)</td>
+                        <td>@Html.PasswordFor(x => x.ConfirmPassword)</td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="btn btn-success">Adicionar</button>
+        </form>
+    </div>
+</div>
+

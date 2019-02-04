@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Identity.AppService.ViewModel.Perfil.ListarPerfilViewModel>
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-body">
+        <div class="btn-group">
+            <a asp-controller="Perfil" asp-action="AdicionarPerfil" class="btn btn-info">Adicionar Perfil</a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.NomeDoPerfil</td>
+                        <td>@item.Descricao</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

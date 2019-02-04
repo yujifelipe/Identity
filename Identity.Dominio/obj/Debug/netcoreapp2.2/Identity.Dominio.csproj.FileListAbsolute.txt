@@ -1,0 +1,12 @@
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\bin\Debug\netcoreapp2.2\Identity.Dominio.deps.json
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\bin\Debug\netcoreapp2.2\Identity.Dominio.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\bin\Debug\netcoreapp2.2\Identity.Dominio.pdb
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\obj\Debug\netcoreapp2.2\Identity.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\obj\Debug\netcoreapp2.2\Identity.Dominio.AssemblyInfoInputs.cache
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\obj\Debug\netcoreapp2.2\Identity.Dominio.AssemblyInfo.cs
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\obj\Debug\netcoreapp2.2\Identity.Dominio.csproj.CopyComplete
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\obj\Debug\netcoreapp2.2\Identity.Dominio.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\obj\Debug\netcoreapp2.2\Identity.Dominio.pdb
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.Dominio\obj\Debug\netcoreapp2.2\Identity.Dominio.csprojAssemblyReference.cache

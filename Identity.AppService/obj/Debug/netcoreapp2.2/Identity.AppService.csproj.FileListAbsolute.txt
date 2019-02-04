@@ -1,0 +1,9 @@
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\bin\Debug\netcoreapp2.2\Identity.AppService.deps.json
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\bin\Debug\netcoreapp2.2\Identity.AppService.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\bin\Debug\netcoreapp2.2\Identity.AppService.pdb
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\obj\Debug\netcoreapp2.2\Identity.AppService.csproj.CoreCompileInputs.cache
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\obj\Debug\netcoreapp2.2\Identity.AppService.AssemblyInfoInputs.cache
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\obj\Debug\netcoreapp2.2\Identity.AppService.AssemblyInfo.cs
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\obj\Debug\netcoreapp2.2\Identity.AppService.dll
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\obj\Debug\netcoreapp2.2\Identity.AppService.pdb
+C:\Users\99825171200\source\repos\IdentityDoZero\Identity.AppService\obj\Debug\netcoreapp2.2\Identity.AppService.csprojAssemblyReference.cache
